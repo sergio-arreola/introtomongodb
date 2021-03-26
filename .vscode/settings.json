@@ -4,6 +4,7 @@
         "lastname",
         "nucampsite",
         "nucampsiteserver",
+        "originalname",
         "resave"
     ]
 }
