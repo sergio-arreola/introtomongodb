@@ -2,10 +2,13 @@
     "cSpell.words": [
         "allowlist",
         "firstname",
+        "jssdk",
         "lastname",
         "nucampsite",
         "nucampsiteserver",
+        "onlogin",
         "originalname",
-        "resave"
+        "resave",
+        "xfbml"
     ]
 }
